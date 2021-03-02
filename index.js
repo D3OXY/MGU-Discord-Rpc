@@ -11,7 +11,7 @@ client.on('ready', () => {
                 large_image: "picsart_03-02-12_21_49",
                 large_text: "https://www.instagram.com/malayaleegamersunited/",
                 small_image: "image",
-                small_text: "Test"
+                small_text: "discord.gg/mgu"
             },
             buttons: [{
                 label: "Discord",
